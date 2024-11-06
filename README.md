@@ -1,9 +1,3 @@
-##### Name: SHIVAAY DHONDIYAL 
-##### Company: CODTECH IT SOLUTIONS PVT.LTD 
-##### ID: CT08DS8845 
-##### Domain: ARTIFICIAL INTELLIGENCE 
-##### Duration: OCTOBER 5th, 2024 to NOVEMBER 5th, 2024 
-
 # Sentiment Analysis on Amazon Reviews
 
 This project implements a comprehensive sentiment analysis model aimed at classifying Amazon product reviews into three categories: positive, neutral, and negative. By leveraging natural language processing (NLP) techniques, word embeddings via Word2Vec, and machine learning algorithms, the project aims to derive insights from textual data that can be invaluable for businesses and consumers alike.
